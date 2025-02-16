@@ -1,0 +1,17 @@
+---
+id: event-details
+title: Event Details
+subtitle: 12 Feb 2025
+imageInfo:
+  src: home/boarding_pass.svg
+  alt: Boarding Pass
+---
+<script>
+  import TextHighlight from '$lib/components/home/TextHighlight.svelte';
+</script>
+
+Get ready to take off for SUTD’s Learning Celebration Carnival (LCC)!
+
+SUTD seniors have come together to share their learning experiences in this one day interactive event. Look forward to informative Presentation Booths and engaging Activity Booths sharing their experiences from different programmes in SUTD, including Overseas Trips, Student Organisations, UROP, and Sustainability.
+
+Come on down to <TextHighlight text="Campus Centre" /> on <TextHighlight text="12 Feb 2025" /> from <TextHighlight text="3-6pm" /> to join in on the adventure and broaden your horizons!

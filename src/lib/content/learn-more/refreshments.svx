@@ -1,0 +1,10 @@
+---
+id: refreshments
+title: Refreshments Await
+subtitle: Carnival Snacks & Ice Cream
+imageInfo:
+  src: learn-more/nachos.jpg
+  alt: Nachos
+---
+
+Refreshments (and ice cream 👀) are available to keep you refreshed and energised. Be sure to mark your calendars!

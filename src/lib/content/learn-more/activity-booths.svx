@@ -1,0 +1,10 @@
+---
+id: activity-booths
+title: Learn By Doing
+subtitle: Activity Booths
+imageInfo:
+  src: learn-more/activity_booths.png
+  alt: Activity Booths
+---
+
+Head to the Activity Booths to participate in fun and engaging activities that showcases learning!

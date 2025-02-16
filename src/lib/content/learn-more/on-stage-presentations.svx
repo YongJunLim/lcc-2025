@@ -1,0 +1,10 @@
+---
+id: on-stage-presentations
+title: Learn From Your Peers
+subtitle: On-Stage Presentations
+imageInfo:
+  src: learn-more/student_pres.jpeg
+  alt: On-Stage Presentations
+---
+
+Don't miss out on the on-stage presentations by our students! They will be sharing their past experiences like overseas trips and more!

@@ -1,0 +1,10 @@
+---
+id: lunchtime-performances
+title: Lunchtime Performances
+subtitle: LTP x LCC
+imageInfo:
+  src: learn-more/sutd_co.jpg
+  alt: SUTD Chinese Orchestra
+---
+
+Before boarding, enjoy a curated selection of festive music during Lunchtime Performances, performed by Chinese Orchestra! Head to the Campus Centre from 2 to 2.45pm and immerse yourself in the musical journey. Don't miss out on this unique collab between LTP x LCC!

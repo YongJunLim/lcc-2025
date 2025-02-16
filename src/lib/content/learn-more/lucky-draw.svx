@@ -1,0 +1,32 @@
+---
+id: lucky-draw
+title: Stay Tuned For Exciting Prizes
+subtitle: Lucky Draw
+imageInfo:
+  src: learn-more/laser_cutter.webp
+  alt: LionsForge Laser Cutter
+---
+
+<script>
+    import Link from '$lib/components/Link.svelte';
+</script>
+
+Over $6000 worth of lucky draw prizes up for grabs! Thank you to our sponsors LionsForge and Cytron for kindly providing the prizes!
+
+**1st prize:** LionsForge CRAFTLASER MK2 Laser Cutter inc. training session! **(worth $5499++)**
+
+**2nd prize:** Raspberry Pi 400 Computer Kit + EDU PICO: Project & Innovation Kit for Raspberry Pi Pico W + EDU:BIT Training & Project Kit for micro:bit **(worth $331)**
+
+**3rd prize:** Raspberry Pi 400 Computer Kit **(worth $175)**
+
+**4th prize:** EDU PICO: Project & Innovation Kit for Raspberry Pi Pico W **(worth $78)**
+
+**5th prize:** EDU:BIT Training & Project Kit for micro:bit **(worth $78)**
+
+**Lucky Draw Game – An interactive game you can play to win lucky draw chances!**
+
+1. Visit all the presentation booths and find your favourite one!
+2. Vote for your favourite booth at the link: <Link colorClass="text-blue-400" href="https://forms.office.com/r/S23aM8iC0E" />
+3. Check your email for a password to enter the Lucky Draw Game
+4. Head to the Lucky Draw Game area and play the game to win chances!
+5. Stay till the Closing Ceremony at 5.30pm where we will announce the winners for the lucky draw!

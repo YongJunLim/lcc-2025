@@ -1,0 +1,22 @@
+{
+	"learn-more/regions/overseas/main.avif": {
+		"title": "Global Experiences",
+		"link": "/learn-more/overseas"
+	},
+	"learn-more/regions/stuorg/main.avif": {
+		"title": "StuOrg",
+		"link": "/learn-more/stuorg"
+	},
+	"learn-more/regions/sustainability/main.avif": {
+		"title": "Sustainability Trips",
+		"link": "/learn-more/sustainability"
+	},
+	"learn-more/regions/urop/main.avif": {
+		"title": "UROP",
+		"link": "/learn-more/urop"
+	},
+	"learn-more/regions/dai/main.avif": {
+		"title": "DATech",
+		"link": "/learn-more/datech"
+	}
+}

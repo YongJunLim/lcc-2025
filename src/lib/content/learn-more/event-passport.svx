@@ -1,0 +1,10 @@
+---
+id: event-passport
+title: Every Stamp Is a Gateway
+subtitle: Event Passport
+imageInfo:
+  src: learn-more/passport_travel.jpg
+  alt: Event Passport
+---
+
+Visit Activity Booths to get stamps on your passports! Once you have obtained the required number of stamps, head to the redemption booth to obtain your Door Gift!

@@ -1,0 +1,10 @@
+---
+id: presentation-booths
+title: Explore Beyond Your Horizons
+subtitle: Presentation Booths
+imageInfo:
+  src: learn-more/presentation_booths.jpg
+  alt: Presentation Booths
+---
+
+Visit the Presentation Booths to find out about the learning experiences of SUTDents in Overseas Experiences, UROP, StuOrgs and Sustainability Trips! You can vote for your favourite booth to enter the lucky draw too!

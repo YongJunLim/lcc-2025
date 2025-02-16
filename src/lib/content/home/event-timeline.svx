@@ -1,0 +1,13 @@
+---
+id: event-timeline
+title: Event Details
+subtitle: Packed with Fun Activities!
+imageInfo:
+  src: home/paper_map.svg
+  alt: Paper Map
+---
+<script>
+  import Timeline from '$lib/components/home/Timeline.svelte';
+</script>
+
+<Timeline />
