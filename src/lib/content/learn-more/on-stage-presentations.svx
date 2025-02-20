@@ -3,7 +3,7 @@ id: on-stage-presentations
 title: Learn From Your Peers
 subtitle: On-Stage Presentations
 imageInfo:
-  src: learn-more/student_pres.jpeg
+  src: learn-more/student_pres.avif
   alt: On-Stage Presentations
 ---
 

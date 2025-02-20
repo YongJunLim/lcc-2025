@@ -15,7 +15,7 @@ export const DEST_CONCISE_LIST: string[] = [
 	'STUORG',
 	'UROP',
 	'SUSTAINABILITY',
-	'ACTIVITY BOOTHS'
+	'ACTIVITY  BOOTHS'
 ];
 export const GATE_LIST: string[] = ['CAMPUS', 'CENTRE'];
 export const DATE_LIST: string[] = ['12', 'FEB', '2025'];

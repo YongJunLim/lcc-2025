@@ -46,8 +46,8 @@
 		"vitest": "^3.0.0"
 	},
 	"dependencies": {
+		"@fontsource-variable/figtree": "^5.1.2",
 		"@fontsource/caladea": "^5.1.1",
-		"@fontsource/figtree": "^5.1.2",
 		"@fontsource/fira-mono": "^5.1.1",
 		"drizzle-orm": "^0.39.3",
 		"embla-carousel-svelte": "^8.5.2",

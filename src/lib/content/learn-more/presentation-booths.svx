@@ -3,7 +3,7 @@ id: presentation-booths
 title: Explore Beyond Your Horizons
 subtitle: Presentation Booths
 imageInfo:
-  src: learn-more/presentation_booths.jpg
+  src: learn-more/presentation_booths.avif
   alt: Presentation Booths
 ---
 

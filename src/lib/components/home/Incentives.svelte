@@ -44,9 +44,7 @@
 		</svg>
 	</div>
 	<div class="bg-light-gray col-span-1 self-center sm:col-span-3">
-		<h1
-			class="text-light-orange px-8 pb-4 text-start text-4xl font-black sm:max-w-full md:text-5xl"
-		>
+		<h1 class="text-light-orange px-8 pb-4 text-start text-4xl font-bold sm:max-w-full md:text-5xl">
 			Take <span class="text-brand-orange italic">More</span> Than Just Knowledge
 		</h1>
 	</div>

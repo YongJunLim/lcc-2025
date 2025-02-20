@@ -3,7 +3,7 @@ id: event-passport
 title: Every Stamp Is a Gateway
 subtitle: Event Passport
 imageInfo:
-  src: learn-more/passport_travel.jpg
+  src: learn-more/passport_travel.avif
   alt: Event Passport
 ---
 

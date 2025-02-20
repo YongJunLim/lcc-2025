@@ -3,7 +3,6 @@
 	import type { SectionProps } from '$lib/types/section';
 	let props = $props();
 	let { id, title, subtitle, imageInfo, contentOnRight = false, children }: SectionProps = props;
-	console.log(id, title, subtitle, imageInfo);
 </script>
 
 <div {id} class="grid scroll-mt-24 grid-cols-1 gap-0 pb-8 sm:grid-cols-2 md:pb-12 lg:pb-16">

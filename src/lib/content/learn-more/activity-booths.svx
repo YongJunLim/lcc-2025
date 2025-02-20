@@ -3,7 +3,7 @@ id: activity-booths
 title: Learn By Doing
 subtitle: Activity Booths
 imageInfo:
-  src: learn-more/activity_booths.png
+  src: learn-more/activity_booths.avif
   alt: Activity Booths
 ---
 

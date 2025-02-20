@@ -14,7 +14,10 @@
 				colorClass="text-blue-400"
 				href="https://lcc.sutd.edu.sg"
 			/><br />
-			Source code can be found on <Link colorClass="text-blue-400" href="https://github.com" />
+			Source code can be found on <Link
+				colorClass="text-blue-400"
+				href="https://github.com/YongJunLim/lcc-2025"
+			/>
 		</p>
 	</div>
 </footer>

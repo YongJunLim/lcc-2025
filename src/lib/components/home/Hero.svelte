@@ -1,7 +1,11 @@
+<script lang="ts">
+	import { EARLY_REG_URL } from '$lib/constants/links';
+</script>
+
 <div class="grid grid-cols-2 px-8 pb-8">
 	<div class="z-10 col-span-1 col-start-1 self-center">
 		<h1
-			class="text-dark-blue mb-4 w-full max-w-2xl text-start text-5xl font-extrabold sm:text-6xl md:text-7xl lg:text-8xl"
+			class="text-dark-blue mb-4 w-full max-w-2xl text-start text-5xl font-bold sm:text-6xl md:text-7xl lg:text-8xl"
 		>
 			LEARNING<br />CELEBRATION<br />CARNIVAL 2025
 		</h1>
@@ -15,9 +19,7 @@
 		</h2>
 		<button
 			class="bg-brand-orange hover:shadow-brand-orange/50 w-fit rounded-full px-8 py-3 duration-150 hover:bg-orange-600 hover:shadow-md md:py-4"
-			><a
-				href="https://forms.office.com/r/53T0TEUkjp"
-				class="text-base text-white md:text-lg lg:text-xl">Sign up now</a
+			><a href={EARLY_REG_URL} class="text-base text-white md:text-lg lg:text-xl">Sign up now</a
 			></button
 		>
 	</div>

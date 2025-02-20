@@ -1,28 +1,36 @@
-# sv
+# LCC 2025
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+## About
+The Learning Celebration Carnival (LCC) is an annual event in SUTD with a long history, organised by ROOT in collaboration with the Office of Education, for SUTDents.
+This was the event website created for 2025 to display the countdown and event information as well as host an API for a lucky draw game made specially for the event.
 
-## Creating a project
+## Technical Details
+This is based on a version deployed on [https://lcc.sutd.edu.sg](https://lcc.sutd.edu.sg), with improvements such as:
+- `MDsveX` for rendering page content
+- `Drizzle` for connecting to a Postgres database hosted on Supabase
 
-If you're seeing this, you've probably already done this step. Congrats!
+### Frontend
+Developed with SvelteKit (Svelte 5) and Tailwind CSS.
 
-```bash
-# create a new project in the current directory
-npx sv create
+### Backend
+Developed with Sveltekit, Drizle, Supabase and Microsoft Power Automate
 
-# create a new project in my-app
-npx sv create my-app
-```
+#### How it works
+1. Participants vote for their favourite poster via a Microsoft Form.
+2. After submitting the form, their student ID and a randomly generated passcode is stored in a database hosted on Supabase.
+3. They will be emailed the passcode and told to login into the lucky draw game with that passcode as well as their student ID.
+4. After completing the game, their lucky draw chances will be added based on their final score as well as if they were the first 50 participants who registered early.
+
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've created a project and installed dependencies with `bun install`, start a development server:
 
 ```bash
-npm run dev
+bun run dev
 
 # or start the server and open the app in a new browser tab
-npm run dev -- --open
+bun run dev -- --open
 ```
 
 ## Building
@@ -30,9 +38,9 @@ npm run dev -- --open
 To create a production version of your app:
 
 ```bash
-npm run build
+bun run build
 ```
 
-You can preview the production build with `npm run preview`.
+You can preview the production build with `bun run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.

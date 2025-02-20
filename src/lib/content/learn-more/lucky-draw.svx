@@ -9,6 +9,7 @@ imageInfo:
 
 <script>
     import Link from '$lib/components/Link.svelte';
+    import { LCC_POSTER_VOTING_URL } from '$lib/constants/links';
 </script>
 
 Over $6000 worth of lucky draw prizes up for grabs! Thank you to our sponsors LionsForge and Cytron for kindly providing the prizes!
@@ -26,7 +27,7 @@ Over $6000 worth of lucky draw prizes up for grabs! Thank you to our sponsors Li
 **Lucky Draw Game – An interactive game you can play to win lucky draw chances!**
 
 1. Visit all the presentation booths and find your favourite one!
-2. Vote for your favourite booth at the link: <Link colorClass="text-blue-400" href="https://forms.office.com/r/S23aM8iC0E" />
+2. Vote for your favourite booth at the link: <Link colorClass="text-blue-400" href="{LCC_POSTER_VOTING_URL}" />
 3. Check your email for a password to enter the Lucky Draw Game
 4. Head to the Lucky Draw Game area and play the game to win chances!
 5. Stay till the Closing Ceremony at 5.30pm where we will announce the winners for the lucky draw!

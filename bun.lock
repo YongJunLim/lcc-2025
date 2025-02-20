@@ -4,8 +4,8 @@
     "": {
       "name": "lcc-2025",
       "dependencies": {
+        "@fontsource-variable/figtree": "^5.1.2",
         "@fontsource/caladea": "^5.1.1",
-        "@fontsource/figtree": "^5.1.2",
         "@fontsource/fira-mono": "^5.1.1",
         "drizzle-orm": "^0.39.3",
         "embla-carousel-svelte": "^8.5.2",
@@ -144,9 +144,9 @@
 
     "@eslint/plugin-kit": ["@eslint/plugin-kit@0.2.5", "", { "dependencies": { "@eslint/core": "^0.10.0", "levn": "^0.4.1" } }, "sha512-lB05FkqEdUg2AA0xEbUz0SnkXT1LcCTa438W4IWTUh4hdOnVbQyOJ81OrDXsJk/LSiJHubgGEFoR5EHq1NsH1A=="],
 
-    "@fontsource/caladea": ["@fontsource/caladea@5.1.1", "", {}, "sha512-9W4VhzBTeELmyb7Tq8oO4mrl7NSW+jJZchOvgrc8/qvnMhTnK2lNut6HR4AZzxadBDeFWFO8BmEzq4wIt3++KA=="],
+    "@fontsource-variable/figtree": ["@fontsource-variable/figtree@5.1.2", "", {}, "sha512-UFexO+zraPlO2dbf3Err+Azc3WGHVbJarehtYRNF4jyL/LLacB/SaJnRBd47huCE29PpIlva8l3RzhvhftMClg=="],
 
-    "@fontsource/figtree": ["@fontsource/figtree@5.1.2", "", {}, "sha512-WlauXrKAtHOadYti0l/dA2ez4lK7Yw2iQccv3ulmkMXgfKOdMjngob2AkIVxFyNLcvorVhh/Eq77DiWSGoR2bw=="],
+    "@fontsource/caladea": ["@fontsource/caladea@5.1.1", "", {}, "sha512-9W4VhzBTeELmyb7Tq8oO4mrl7NSW+jJZchOvgrc8/qvnMhTnK2lNut6HR4AZzxadBDeFWFO8BmEzq4wIt3++KA=="],
 
     "@fontsource/fira-mono": ["@fontsource/fira-mono@5.1.1", "", {}, "sha512-JDZUQuQQFTvPJgwOftXg44LOa7XYNqwTHHquEpi8rY6SK8m7Q5rWxmMX7nUOvRF2g+jc02mqmK2Y+WmviF9+VQ=="],
 
