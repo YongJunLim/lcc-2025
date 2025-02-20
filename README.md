@@ -13,7 +13,7 @@ This is based on a version deployed on [https://lcc.sutd.edu.sg](https://lcc.sut
 Developed with SvelteKit (Svelte 5) and Tailwind CSS.
 
 ### Backend
-Developed with Sveltekit, Drizle, Supabase and Microsoft Power Automate
+Developed with Sveltekit, Drizzle, Supabase and Microsoft Power Automate
 
 #### How it works
 1. Participants vote for their favourite poster via a Microsoft Form.
