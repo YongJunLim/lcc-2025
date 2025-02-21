@@ -1,5 +1,5 @@
 <script lang="ts">
-	import '$src/app.css';
+	import '/src/app.css';
 	import type { HeaderProps } from '$lib/types/countdown';
 	import MaterialSymbolsFlightTakeoff from 'virtual:icons/material-symbols/flight-takeoff';
 	import { Confetti } from 'svelte-confetti';
