@@ -6,14 +6,14 @@ This was the event website created for 2025 to display the countdown and event i
 
 ## Technical Details
 This is based on a version deployed on [https://lcc.sutd.edu.sg](https://lcc.sutd.edu.sg), with improvements such as:
-- `MDsveX` for rendering page content
-- `Drizzle` for connecting to a Postgres database hosted on Supabase
+- `MDsveX` for rendering page content from Markdown files
+- `Drizzle` for generating SQL schema (`bunx drizzle-kit generate`)
 
 ### Frontend
 Developed with SvelteKit (Svelte 5) and Tailwind CSS.
 
 ### Backend
-Developed with Sveltekit, Drizzle, Supabase and Microsoft Power Automate
+Developed with Sveltekit, Drizle, Supabase and Microsoft Power Automate
 
 #### How it works
 1. Participants vote for their favourite poster via a Microsoft Form.
